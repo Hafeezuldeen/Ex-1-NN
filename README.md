@@ -37,15 +37,10 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
-```
-HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_RESET);
-HAL_Delay(1000);
-HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_SET);
-HAL_Delay(1000);
-```
+
 
 ## OUTPUT:
-![Screenshot 2024-08-19 232120](https://github.com/user-attachments/assets/7d97be81-5094-4dc0-83ba-d9f34b89f01c)
+
 
 
 ## RESULT:
