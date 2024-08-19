@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>ENTER YOUR NAME</H3> Hafeezul Deen S
+<H3>ENTER YOUR REGISTER NO.</H3> 212223220028
 <H3>EX. NO.1</H3>
 <H3>DATE</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
@@ -37,11 +37,15 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
-TYPE YOUR CODE HERE
-
+```
+HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_RESET);
+HAL_Delay(1000);
+HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_SET);
+HAL_Delay(1000);
+```
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+![Screenshot 2024-08-19 232120](https://github.com/user-attachments/assets/7d97be81-5094-4dc0-83ba-d9f34b89f01c)
 
 
 ## RESULT:
